@@ -5,13 +5,12 @@ The following homework assignment will demonstrate compentency using the Bootstr
 The following tasks will be achieved:
 
 X edit README.md with project description
-
-navbar
+X navbar
    X replace "Your Name" header with my name in navbar across all pages
    X change order of links in navbar across all pages to match wireframe
    X change background color of navbar across all pages to match wireframe
    X change margins, padding, and border styles of navbar across all pages to match wireframe
-footer
+X footer
    X change text color of "copyright" text in footer across all pages to match wireframe
    X change margins, padding, and border styles of footer across all pages to match wireframe
    X resize text of footer text across all pages to match wireframe
@@ -20,15 +19,13 @@ index.html
    X resize h1 header across all pages to match wireframe
    X enlarge hr tag under "About Me" header to match wireframe
    X change text color of content to match wireframe
-   change image width to match wireframe
-   change text content to match wireframe
    use css media queries to achieve 640-index.jpg to match wire frame
    use css media queries to achieve 768-index.jpg to match wire frame
    use css media queries to achieve 980-index.jpg to match wire frame
 contact.html
    X resize h1 header across all pages to match wireframe
    X enlarge hr tag under "Contact" header to match wireframe
-   add default values to Name and Email fields   
+   X add default values to Name and Email fields   
    add more space to "Message" field to match wireframe
    change padding style of "Submit" button to match wireframe
    use css media queries to achieve 640-contact.jpg to match wire frame 
