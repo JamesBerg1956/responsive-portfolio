@@ -106,10 +106,11 @@ main {
 
 .text-muted-footer {
   /* Box-model */
-  margin-top: 15px;
+  margin-top: 21px;
 
   /* Typography */
   color: lightgray;
+  font-size: 10px;
 }
 
 .two-toned-footer-color {
