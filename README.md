@@ -8,7 +8,7 @@ X edit README.md with project description
 
 navbar
    X replace "Your Name" header with my name in navbar across all pages
-   change order of links in navbar across all pages to match wireframe
+   X change order of links in navbar across all pages to match wireframe
    change background color of navbar across all pages to match wireframe
    resize text of navbar text across all pages to match wireframe
    change margins, padding, and border styles of navbar across all pages to match wireframe
