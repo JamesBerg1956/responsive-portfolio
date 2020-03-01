@@ -42,4 +42,4 @@ all pages
    X add alt tags to images
    add comments
    use bootstrap grid system
-   replace <title>
+   X add descriptive content to title tag
