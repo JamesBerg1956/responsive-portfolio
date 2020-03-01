@@ -15,7 +15,7 @@ footer
    X change text color of "copyright" text in footer across all pages to match wireframe
    X change margins, padding, and border styles of footer across all pages to match wireframe
    X resize text of footer text across all pages to match wireframe
-   add your name to copyright footer across all pages
+   X add your date tag and name to copyright footer across all pages
 index.html
    resize "About Me" header to match 
    enlarge hr tag under "About Me" header to match wireframe
