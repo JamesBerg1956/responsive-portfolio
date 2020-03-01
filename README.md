@@ -11,11 +11,11 @@ navbar
    X change order of links in navbar across all pages to match wireframe
    X change background color of navbar across all pages to match wireframe
    X change margins, padding, and border styles of navbar across all pages to match wireframe
-   delete unused button element from nav
 footer
-   change text color of "copyright" text in footer across all pages to match wireframe
+   X change text color of "copyright" text in footer across all pages to match wireframe
    resize text of footer text across all pages to match wireframe
    change margins, padding, and border styles of footer across all pages to match wireframe
+   add your name to copyright footer across all pages
 index.html
    resize "About Me" header to match 
    enlarge hr tag under "About Me" header to match wireframe
