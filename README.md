@@ -34,12 +34,12 @@ contact.html
 portfolio.html
    X resize h1 header across all pages to match wireframe
    X enlarge hr tag under "Contact" header to match wireframe
-   Replace placeholder images
+   replace placeholder images
    use css media queries to achieve 640-portfolio.jpg wire to match frame
    use css media queries to achieve 768-portfolio.jpg wire to match frame
    use css media queries to achieve 980-portfolio.jpg wire to match frame
 all pages
-   add alt tags to images
+   X add alt tags to images
    add comments
    use bootstrap grid system
    replace <title>
