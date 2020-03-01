@@ -26,7 +26,7 @@ contact.html
    X resize h1 header across all pages to match wireframe
    X enlarge hr tag under "Contact" header to match wireframe
    X add default values to Name and Email fields   
-   add more space to "Message" field to match wireframe
+   X add more space to "Message" field to match wireframe
    change padding style of "Submit" button to match wireframe
    use css media queries to achieve 640-contact.jpg to match wire frame 
    use css media queries to achieve 768-contact.jpg to match wire frame 
