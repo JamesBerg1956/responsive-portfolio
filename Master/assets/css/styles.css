@@ -24,6 +24,10 @@ h1{
   font-size: 26px;
 }
 
+hr{
+  border-top: 2px solid lightgray;
+}
+
 /* create styles for use for all white main boxes */
 .block {
   background-color: #fff;

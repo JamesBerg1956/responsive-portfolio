@@ -17,8 +17,8 @@ footer
    X resize text of footer text across all pages to match wireframe
    X add date tag and name to copyright footer across all pages
 index.html
-   X resize "About Me" header to match wireframe
-   enlarge hr tag under "About Me" header to match wireframe
+   X resize h1 header across all pages to match wireframe
+   X enlarge hr tag under "About Me" header to match wireframe
    change text color of content to match wireframe
    change image width to match wireframe
    change text content to match wireframe
@@ -26,8 +26,8 @@ index.html
    use css media queries to achieve 768-index.jpg to match wire frame
    use css media queries to achieve 980-index.jpg to match wire frame
 contact.html
-   X resize "Contact" header to match wireframe
-   enlarge hr tag under "Contact" header to match wireframe
+   X resize h1 header across all pages to match wireframe
+   X enlarge hr tag under "Contact" header to match wireframe
    add default values to Name and Email fields   
    add more space to "Message" field to match wireframe
    change padding style of "Submit" button to match wireframe
@@ -35,8 +35,8 @@ contact.html
    use css media queries to achieve 768-contact.jpg to match wire frame 
    use css media queries to achieve 980-contact.jpg to match wire frame
 portfolio.html
-   X resize "Portfolio" header to match 
-   enlarge hr tag under "Contact" header to match wireframe
+   X resize h1 header across all pages to match wireframe
+   X enlarge hr tag under "Contact" header to match wireframe
    Replace placeholder images
    use css media queries to achieve 640-portfolio.jpg wire to match frame
    use css media queries to achieve 768-portfolio.jpg wire to match frame
