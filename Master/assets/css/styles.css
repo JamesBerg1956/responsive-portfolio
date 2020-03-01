@@ -28,6 +28,10 @@ hr{
   border-top: 2px solid lightgray;
 }
 
+p{
+  color: lightslategrey;
+}
+
 /* create styles for use for all white main boxes */
 .block {
   background-color: #fff;

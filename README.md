@@ -19,7 +19,7 @@ footer
 index.html
    X resize h1 header across all pages to match wireframe
    X enlarge hr tag under "About Me" header to match wireframe
-   change text color of content to match wireframe
+   X change text color of content to match wireframe
    change image width to match wireframe
    change text content to match wireframe
    use css media queries to achieve 640-index.jpg to match wire frame
@@ -42,6 +42,7 @@ portfolio.html
    use css media queries to achieve 768-portfolio.jpg wire to match frame
    use css media queries to achieve 980-portfolio.jpg wire to match frame
 all pages
+   add alt tags to images
    add comments
    use bootstrap grid system
    replace <title>
