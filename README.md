@@ -4,8 +4,10 @@ responsive-portfolio
 The following homework assignment will demonstrate compentency using the Bootstrap grid system and responsive design using media queries
 The following tasks will be achieved:
 
+X edit README.md with project description
+
 navbar
-   replace "Your Name" header with my name in navbar across all pages
+   X replace "Your Name" header with my name in navbar across all pages
    change order of links in navbar across all pages to match wireframe
    change background color of navbar across all pages to match wireframe
    resize text of navbar text across all pages to match wireframe
@@ -43,4 +45,3 @@ all pages
    add comments
    use bootstrap grid system
    replace <title>
-edit README.md with project description
