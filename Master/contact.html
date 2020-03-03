@@ -1,12 +1,15 @@
+<!-- Declare HTML doctype standard -->
 <!DOCTYPE html>
+<!-- Start HTML -->
 <html lang="en-us">
-
+<!-- Start Head -->
 <head>
-
+  <!-- selects allowable character set -->
   <meta charset="UTF-8">
+  <!-- required meta properties for Bootstrap -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
+  <!-- Browser tab text -->
   <title>Bootstrap Basic Portfolio</title>
 
   <!-- Boostrap Stylesheet -->
@@ -16,75 +19,141 @@
   <link rel="stylesheet" href="assets/css/styles.css" media="screen">
 
 </head>
-
+<!-- End Head -->
+<!-- Start Body -->
 <body>
-
-    <nav class="navbar navbar-expand-lg navbar-light p-0">
-        <div class="container">
-          <!-- Brand and toggle get grouped for better mobile display -->
+  <!-- Start Nav -->
+  <nav class="navbar-expand-lg navbar-light p-0">
+    <!-- Start outer container -->
+    <div class="container">
+      <!-- Start outer nav row -->
+      <div class="row">
+        <!-- Start Nav logo column-->
+        <div class="col-sm-12 col-md-6 pl-4">
+          <!-- Nav logo anchor -->
           <a class="navbar-brand pt-3 pb-3 pl-4 pr-4" href="index.html" id="logo">James Berg</a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01"
-            aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <!-- Collect the nav links, forms, and other content for toggling -->
-          <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-            <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
-              <li class="nav-item">
-                <a class="nav-link" href="index.html">About</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="portfolio.html">Portfolio</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link active" href="contact.html">Contact</a>
-              </li>
-            </ul>
-          </div>
-          <!-- /.navbar-collapse -->
         </div>
-        <!-- /.container -->
-      </nav>
-      <!-- End of navbar -->
+        <!-- End Nav logo column -->
+        <!-- Start Nav links column -->
+        <div class="col-sm-12 col-md-6 pl-4">
+            <!-- Start links bulleted list -->
+            <ul class="navbar-nav ml-auto mt-2 ">
+              <!-- Start inner container -->
+              <div class="container">
+                <!-- Start inner nav row -->
+                <div class="row">
+                  <!-- Start inner nav About link column-->
+                  <div class="col-1 pl-1">
+                    <!-- Start inner nav About link -->
+                    <li class="nav-item">
+                      <!-- About link -->
+                      <a class="nav-link" href="index.html">About</a>
+                    </li>
+                    <!-- End inner nav About link -->
+                  </div>
+                  <!-- End inner nav About link column -->
+                  <!-- Start inner nav Portfolio link column-->
+                  <div class="col-1 pl-4">
+                    <!-- Start inner nav Portfolio link -->
+                    <li class="nav-item">
+                      <!-- portfolio link -->
+                      <a class="nav-link" href="portfolio.html">Portfolio</a>
+                    </li>
+                    <!-- End inner nav Portfolio link -->
+                  </div>
+                  <!-- End inner nav Portfolio link column -->
+                  <!-- Start inner nav Contact link column-->
+                  <div class="col-1 pl-5">
+                    <!-- Start inner nav Contact link -->
+                    <li class="nav-item active">
+                      <!-- Contact link -->
+                      <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                    <!-- End inner nav Contact link -->
+                  </div>                
+                  <!-- End inner nav Contact link column -->
+                </div>
+                <!-- End inner nav row -->
+              </div>
+              <!-- End inner container -->
+            </ul>
+            <!-- End links bulleted list -->
+        </div>
+        <!-- End Nav links column -->
+      </div>
+      <!-- End outer nav row -->
+    </div>
+    <!-- End outer container -->
+  </nav>
+  <!-- End of navbar -->
 
-  <!-- Start of container -->
+  <!-- Start Contact container -->
   <main class="container">
+    <!-- Start Contact row -->
     <section class="row">
+      <!-- Start out Contact row -->
       <div class="col-md-8">
+        <!-- Start Contact form -->
         <form class="block form-horizontal">
+          <!-- Contact form header -->
           <h1 class="block-header">Contact</h1>
+          <!-- Line break -->
           <hr />
+          <!-- Start form Name label and textbox group-->
           <div class="form-group">
+            <!-- Name label -->
             <label for="name" class="col-sm-2 control-label">Name</label>
+            <!-- Start form Name textbox column -->
             <div class="col-sm-10">
+              <!-- Name textbox -->
               <input type="email" class="form-control" id="name" placeholder="John Smith">
             </div>
+            <!-- End form Name textbox column -->
           </div>
+          <!-- End form Name label and textbox group-->
+          <!-- Start form Email label and textbox group-->
           <div class="form-group">
+            <!-- Email label -->
             <label for="email" class="col-sm-2 control-label">Email</label>
+            <!-- Start form Email textbox column -->
             <div class="col-sm-10">
+              <!-- Email texbox -->
               <input type="password" class="form-control" id="email" placeholder="example@gmail.com">
             </div>
+            <!-- End form Email textbox column -->
           </div>
+          <!-- End form Email label and text group-->
+          <!-- Start form Message label and textarea group-->
           <div class="form-group">
+            <!-- Message label -->
             <label class="col-sm-2 control-label" for="msg">Message</label>
+            <!-- Start form message textarea column -->
             <div class="col-sm-10">
+              <!-- Message textarea -->
               <textarea id="msg" class="form-control" rows="6" placeholder=""></textarea>
             </div>
+            <!-- End form message textarea column -->
           </div>
+          <!-- End form Message label and textarea group-->
           <button class="submit-btn">Submit</button>
         </form>
+        <!-- End Contact form -->
       </div>
+      <!-- End out Contact row -->
     </section>
+    <!-- End Contact row -->
   </main>
-  <!-- End of container -->
+  <!-- End Contact container -->
 
   <!-- Start of footer -->
   <footer class="footer">
+    <!-- Green footer border -->
     <div class="two-toned-footer-color"></div>
+    <!-- Start copyright -->
     <p class="text-muted-footer text-center">
       &copy; Copyright <time datetime="2020">2020</time> James Berg
     </p>
+    <!-- End copyright -->
   </footer>
   <!-- End of footer -->
 
@@ -95,5 +164,6 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script></script>
 
 </body>
-
+<!-- End Body -->
 </html>
+<!-- End HTML -->

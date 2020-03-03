@@ -5,11 +5,11 @@ The following homework assignment will demonstrate compentency using the Bootstr
 The following tasks will be achieved:
 
 X edit README.md with project description
-navbar
+X navbar
    X replace "Your Name" header with my name in navbar across all pages
    X change order of links in navbar across all pages to match wireframe
    X change background color of navbar across all pages to match wireframe
-   remove hamburger nav and use css media queries to stack nav below logo for mobile
+   X remove hamburger nav and use Bootstrap breaks to stack nav below logo for mobile
 X footer
    X change text color of "copyright" text in footer across all pages to match wireframe
    X change margins, padding, and border styles of footer across all pages to match wireframe
