@@ -29,6 +29,7 @@ X portfolio.html
    X resize h1 header across all pages to match wireframe
    X enlarge hr tag under "Contact" header to match wireframe
    X use bootstrap breakpoints to stack images to match wireframes
+   X add link to first homework with image
 all pages
    X add alt tags to images
    add comments
